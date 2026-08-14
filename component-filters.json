@@ -19,6 +19,18 @@
     ]
   },
   {
+    "id": "section-plp",
+    "components": [
+      "accordion"
+    ]
+  },
+  {
+    "id": "accordion",
+    "components": [
+      "accordion-item"
+    ]
+  },
+  {
     "id": "cards",
     "components": [
       "card"

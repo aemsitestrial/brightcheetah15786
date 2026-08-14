@@ -1,0 +1,27 @@
+{
+  "definitions": [
+    {
+      "title": "Section (Product Listing Page)",
+      "id": "section-plp",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/section/v1/section",
+            "template": {
+              "model": "section",
+              "filter": "section-plp"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "section-plp",
+      "components": [
+        "accordion"
+      ]
+    }
+  ]
+}

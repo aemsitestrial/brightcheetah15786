@@ -9,6 +9,9 @@
     "...": "./_section.json#/filters"
   },
   {
+    "...": "./_section-plp.json#/filters"
+  },
+  {
     "...": "../blocks/*/_*.json#/filters"
   }
 ]
